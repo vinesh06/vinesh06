@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinesh06&label=Profile%20views&color=0e75b6&style=flat" alt="vinesh06" /> </p>
 
-- 🌱 I’m currently learning **Bachelor Of Computer Science(Data Engineering) with honours**
+- 🌱 I’m currently studying **Bachelor Of Computer Science(Data Engineering) with honours**
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/vinesh06](linkedin.com/in/vinesh06)
 
